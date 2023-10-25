@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#root {     
+    margin: 0 auto;
+    text-align: center;
+}
+.navbar {
+    width: 100%;
+}
+.icon {  
+    color: white;
+}
+.logo {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 700;
+    padding: 0 30px;
+}
+.title {
+    margin-top: 100px;
+}
+.title span {
+    font-weight: 800;
+}
+.form {
+    width: 80%;
+    margin: 0 auto;
+}
+.formTitle {
+    font-size: 30px;
+    font-weight: 600;
+    margin-top: 100px;
+}
+img {
+    width: 300px;
+}
